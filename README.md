@@ -36,3 +36,21 @@
 * Git/Github
 
     https://www.notion.so/Introduction-to-GitHub-202af6f64bbd4299b15f238dcd09d2a7
+    
+    
+* Serverless resources
+
+    https://serverless.css-tricks.com/
+
+* Command Line 
+
+    http://cheatsheetworld.com/programming/unix-linux-cheat-sheet/
+
+* Trouble-shooting
+
+    https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9
+
+* APIs
+
+    https://github.com/vets-who-code/api-list
+    https://github.com/public-apis/public-apis
