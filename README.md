@@ -32,6 +32,10 @@
     https://static.frontendmasters.com/resources/2017-10-03-responsive-web-design-flexbox-css-grid/Flexbox-and-CSS-Grid-Properties-Cheat-Sheet.pdf
   
     https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
+    
+  Misc
+  
+  https://webdevresources.info/images
 
 * Git/Github
 
