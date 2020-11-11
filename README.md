@@ -48,6 +48,8 @@
   Misc
   
   https://webdevresources.info/images
+  
+  https://www.typewolf.com/recommendations
 
 * Git/Github
 
