@@ -51,6 +51,8 @@
   
   https://www.typewolf.com/recommendations
   
+  https://github.com/michalsnik/aos
+  
   http://michalsnik.github.io/aos/ //for sliding in on scroll
 
 * Git/Github
