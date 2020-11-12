@@ -50,6 +50,8 @@
   https://webdevresources.info/images
   
   https://www.typewolf.com/recommendations
+  
+  http://michalsnik.github.io/aos/ //for sliding in on scroll
 
 * Git/Github
 
