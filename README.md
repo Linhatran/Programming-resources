@@ -35,6 +35,10 @@
     Design patterns
 
     https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+    
+    DOM
+    
+    https://developer.mozilla.org/en-US/docs/Web/Events
   
    
 * CSS 
