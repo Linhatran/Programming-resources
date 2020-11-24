@@ -53,6 +53,8 @@
   
     https://learn.shayhowe.com/advanced-html-css/responsive-web-design/
     
+    https://taniarascia.github.io/primitive/css/main.css (primitive CSS)
+    
   Misc
   
   https://webdevresources.info/images
