@@ -39,6 +39,10 @@
     DOM
     
     https://developer.mozilla.org/en-US/docs/Web/Events
+    
+* REACT
+
+    https://www.taniarascia.com/getting-started-with-react/
   
    
 * CSS 
