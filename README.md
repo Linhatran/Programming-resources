@@ -43,8 +43,11 @@
 * REACT
 
     https://www.taniarascia.com/getting-started-with-react/
+    
+    https://egghead.io/courses/the-beginner-s-guide-to-react
   
-   
+    https://www.freecodecamp.org/news/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2/
+    
 * CSS 
 
   Layout with Grid and Flexbox
