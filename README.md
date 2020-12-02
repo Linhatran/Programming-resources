@@ -62,6 +62,8 @@
     
     https://taniarascia.github.io/primitive/css/main.css (primitive CSS)
     
+    https://material.io/design/environment/light-shadows.html#light
+    
   Misc
   
   https://webdevresources.info/images
