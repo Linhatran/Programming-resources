@@ -25,6 +25,8 @@
     https://github.com/jwasham/coding-interview-university
     
     https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
+    
+    https://itnext.io/reactjs-interview-questions-for-senior-developers-64618f6a0aca
  
 * Javascript
   
