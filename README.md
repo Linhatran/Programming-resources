@@ -27,6 +27,8 @@
     https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
     
     https://itnext.io/reactjs-interview-questions-for-senior-developers-64618f6a0aca
+    
+    https://gist.github.com/Linhatran/3c691138083da9ec08da7963c014ca17 (SDI)
  
 * Javascript
   
