@@ -29,6 +29,8 @@
     https://itnext.io/reactjs-interview-questions-for-senior-developers-64618f6a0aca
     
     https://gist.github.com/Linhatran/3c691138083da9ec08da7963c014ca17 (SDI)
+    
+    https://blog.usejournal.com/how-i-got-a-job-on-angellist-99506dfca421
  
 * Javascript
   
