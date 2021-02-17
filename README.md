@@ -31,6 +31,10 @@
     https://gist.github.com/Linhatran/3c691138083da9ec08da7963c014ca17 (SDI)
     
     https://blog.usejournal.com/how-i-got-a-job-on-angellist-99506dfca421
+    
+    https://yangshun.github.io/tech-interview-handbook/introduction
+    
+    https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/
  
 * Javascript
   
