@@ -69,6 +69,8 @@
     https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/
     
     https://github.com/gothinkster/realworld
+    
+    https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/
 * CSS 
 
   Layout with Grid and Flexbox
