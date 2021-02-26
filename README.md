@@ -35,6 +35,8 @@
     https://yangshun.github.io/tech-interview-handbook/introduction
     
     https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/
+    
+    https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions
  
 * Javascript
   
