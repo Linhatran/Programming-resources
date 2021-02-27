@@ -1,6 +1,8 @@
 * Web developing curricula 
 
     https://github.com/P1xt/p1xt-guides
+    
+    https://github.com/kamranahmedse/developer-roadmap
 
 * Interviews
 
