@@ -94,6 +94,8 @@
   https://github.com/michalsnik/aos
   
   http://michalsnik.github.io/aos/ (for sliding in on scroll)
+  
+  https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works
 
 * Git/Github
 
