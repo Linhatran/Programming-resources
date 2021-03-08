@@ -39,6 +39,12 @@
     https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/
     
     https://www.simplilearn.com/tutorials/nodejs-tutorial/nodejs-interview-questions
+    
+* Typescript
+
+    https://ts.chibicode.com/todo/
+    
+    https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets
  
 * Javascript
   
