@@ -129,3 +129,7 @@
     https://github.com/public-apis/public-apis
     
     https://developer.mozilla.org/en-US/docs/Web/API
+
+* OAuth
+   
+    https://blog.logrocket.com/how-to-use-nextauth-js-for-client-side-authentication-in-next-js/
