@@ -79,6 +79,9 @@
     https://github.com/gothinkster/realworld
     
     https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/
+    
+    https://tsh.io/blog/what-is-next-js-used-for/
+    
 * CSS 
 
   Layout with Grid and Flexbox
