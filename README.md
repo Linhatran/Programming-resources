@@ -64,6 +64,10 @@
     
     https://developer.mozilla.org/en-US/docs/Web/Events
     
+* Python
+
+    https://practical.learnpython.dev/
+    
 * REACT
 
     https://www.taniarascia.com/getting-started-with-react/
