@@ -88,6 +88,8 @@
     
     https://tsh.io/blog/what-is-next-js-used-for/
     
+    https://dmitripavlutin.com/react-hooks-stale-closures/
+    
 * CSS 
 
   Layout with Grid and Flexbox
