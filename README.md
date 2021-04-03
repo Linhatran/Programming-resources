@@ -68,6 +68,8 @@
 
     https://practical.learnpython.dev/
     
+    https://www.codingforentrepreneurs.com/projects
+    
 * REACT
 
     https://www.taniarascia.com/getting-started-with-react/
