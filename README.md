@@ -144,3 +144,7 @@
 * OAuth
    
     https://blog.logrocket.com/how-to-use-nextauth-js-for-client-side-authentication-in-next-js/
+
+* AWS 
+    
+    https://www.youtube.com/watch?v=ulprqHHWlng
